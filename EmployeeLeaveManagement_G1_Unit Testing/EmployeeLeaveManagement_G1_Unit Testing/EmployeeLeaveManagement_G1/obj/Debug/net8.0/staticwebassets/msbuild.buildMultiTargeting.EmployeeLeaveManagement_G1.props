@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\EmployeeLeaveManagement_G1.props" />
-</Project>
